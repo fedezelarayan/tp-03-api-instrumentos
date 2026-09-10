@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guitarra",
+    "familia": "Cuerda",
+    "origen": "España",
+    "descripcion": "Instrumento de cuerda pulsada con seis cuerdas, utilizado en numerosos estilos musicales.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Piano",
+    "familia": "Cuerda",
+    "origen": "Italia",
+    "descripcion": "Instrumento de teclado en el que pequeños martillos golpean las cuerdas para producir sonido.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Flauta traversa",
+    "familia": "Viento",
+    "origen": "Europa",
+    "descripcion": "Instrumento de viento de madera o metal que produce sonido mediante la vibración del aire.",
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "nombre": "Violín",
+    "familia": "Cuerda",
+    "origen": "Italia",
+    "descripcion": "Instrumento de cuerda frotada de cuatro cuerdas, utilizado en música clásica y popular.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Trompeta",
+    "familia": "Viento",
+    "origen": "Europa",
+    "descripcion": "Instrumento de viento metal que utiliza válvulas para modificar la altura de las notas.",
+    "disponible": true
+  },
+  {
+    "id": 6,
+    "nombre": "Batería",
+    "familia": "Percusión",
+    "origen": "Estados Unidos",
+    "descripcion": "Conjunto de instrumentos de percusión formado por tambores, platillos y otros elementos.",
+    "disponible": false
+  },
+  {
+    "id": 7,
+    "nombre": "Saxofón",
+    "familia": "Viento",
+    "origen": "Bélgica",
+    "descripcion": "Instrumento de viento con cuerpo metálico y una boquilla con lengüeta simple.",
+    "disponible": true
+  }
+]

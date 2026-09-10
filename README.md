@@ -35,27 +35,22 @@ Ctrl + c
 ## Endpoints
 
 GET http://localhost:3000/
-
 └──Devuelve un mensaje en formato JSON, de bienvenida y para indicar que la API está disponible.
 
 
 GET http://localhost:3000/api/instrumentos
-
 └──Devuelve un listado con todos los instrumentos registrados.
 
 
 GET http://localhost:3000/api/instrumentos?familia=cuerda
-
 └──Permite filtrar por familia mediante una consulta, no distingue entre mayúsculas o minúsculas.
 
 
 GET http://localhost:3000/api/instrumentos/1
-
 └──Permite la búsqueda mediante ID.
 
 
 POST http://localhost:3000/api/instrumentos
-
 └──Permite crear un nuevo instrumento en memoria, el cuerpo de la solicitud debe estar en formato JSON e incluir los siguientes campos:
 
 
